@@ -3,7 +3,7 @@
 "ID": "01"
 "author": "Kusmartsev"
 "Steps to reproduce": 
-  { 
+  {
   "01": "Select an item in the catalog",
   "02": "add the item to the cart",
   "03": "pay for the item by the 'Chekout' button"
