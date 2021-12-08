@@ -1,0 +1,15 @@
+{
+"Title": "not possible to choose a delivery method",
+"ID": "01"
+"author": "Kusmartsev"
+"Steps to reproduce": 
+  { 
+  "01": "Select an item in the catalog",
+  "02": "add the item to the cart",
+  "03": "pay for the item by the 'Chekout' button"
+  "04": "click on the 'Delivery method' button"
+  }
+"actual result": "nothing happens on the page"
+"expected result" "the user chooses the delivery method"
+"severity": "blocker"
+}
